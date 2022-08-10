@@ -1,5 +1,5 @@
 # SNA-Project
-Project of Social Network Analysis on Depp Heard trial
+*Project of Social Network Analysis on Depp Heard trial*
 
 **Data collection**: scraping of tweets published on the Depp Heard process (12 April to 12 June) using the Twint library and creation of the network
 
